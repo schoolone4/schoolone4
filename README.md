@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schoolone4&show_icons=true&theme=discord_old_blurple)
 
+[![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,swift,discord,bots,)]([https://skillicons.dev](https://www.python.org/))
+
 [![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,swift,discord,bots,)](https://skillicons.dev)
 
 
