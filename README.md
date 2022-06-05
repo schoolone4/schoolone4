@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @schoolone4
-- 👀 I’m interested in python and lua
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![My Skills](https://skillicons.dev/icons?i=py,swift,lua,c)](https://skillicons.dev)
 
 <!---
 schoolone4/schoolone4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
