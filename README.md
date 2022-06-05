@@ -1,4 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=py,swift,lua,c)](https://skillicons.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schoolone4&show_icons=true&theme=discord_old_blurple)
+
+[![My Skills](https://skillicons.dev/icons?i=py,swift,lua,cpp,discord,bots,)](https://skillicons.dev)
+
+
 
 <!---
 schoolone4/schoolone4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
